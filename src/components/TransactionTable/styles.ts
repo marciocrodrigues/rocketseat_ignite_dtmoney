@@ -16,10 +16,10 @@ export const Container = styled.div`
         }
 
         td {
-            padding: 1rem 2rem;
             border: 0;
             background: var(--shape);
             color: var(--text-body);
+            padding: 1rem 2rem;
             border-radius: 0.25rem;
 
             &:first-child {
